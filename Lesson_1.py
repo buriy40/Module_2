@@ -17,7 +17,7 @@ while True:
         if endeavour == endeavours:
             print('Ты проиграл')
 
-    play_agane = input('Еще разок? y/n')
+    play_agane = input('Еще разок? y/n ')
     if play_agane != 'y':
         print('Спасибо за игру!')
         break
