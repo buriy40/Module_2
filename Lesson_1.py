@@ -20,7 +20,7 @@ while True:
     play_agane = input('Еще разок? y/n ')
     if play_agane != 'y':
         print('Спасибо за игру!')
-        break
+
 
 
 
